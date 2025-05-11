@@ -1,0 +1,4 @@
+1,Proiect AI,Python,30,15000.5,5,TensorFlow
+2,Joc 2D,C++,60,8000.0,7,SDL
+3.Aplicatie Web,JavaScript,45,12000.0,6,React
+4,Sistem Embedded,C,90,9500.5,8,FreeRTOS
