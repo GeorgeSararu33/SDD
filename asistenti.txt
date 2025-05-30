@@ -1,0 +1,3 @@
+1,Ana,3200.5,30,A,Medicina 5.5
+2,Alex,4000.0,45,A,Chirurgie 10.0
+3,Alina,2900.7,28,A,Pediatrie 2.0
